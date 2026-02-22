@@ -2,6 +2,15 @@
 	"name": "ky-cookies",
 	"version": "0.0.0-semantic-release",
 	"description": "Cookie management plugin for ky using tough-cookie",
+	"keywords": [
+		"ky",
+		"cookies",
+		"tough-cookie",
+		"fetch",
+		"http",
+		"cookie-jar",
+		"session"
+	],
 	"license": "MIT",
 	"repository": "privatenumber/ky-cookies",
 	"author": {
