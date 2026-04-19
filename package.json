@@ -50,6 +50,6 @@
 		"manten": "2.0.0-beta.2",
 		"pkgroll": "^2.26.3",
 		"tough-cookie": "^6.0.0",
-		"typescript": "^5.9.3"
+		"typescript": "^6.0.3"
 	}
 }
